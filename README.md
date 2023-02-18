@@ -6,7 +6,7 @@ Home tasks and projects regarding machine learning course at Skoltech.
 + Boosting
 + AdaBoost
 + Gradient Boosting
-+ Multi-Class Classification Strategies
++ Multi-Class Classification
 + Stacking
 > Homework 2 pipeline:
 
